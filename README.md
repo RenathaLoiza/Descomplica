@@ -32,7 +32,7 @@ A **Agência de Viagens** é uma aplicação web desenvolvida para oferecer aos 
 ## 🚀 Como Executar o Projeto
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/agencia-de-viagens.git
+   git clone [https://github.com/seu-usuario/agencia-de-viagens.git](https://github.com/RenathaLoiza/Descomplica.git)
    
 ### Dicas para Customização
 - **Links**: Adicione links diretos para as imagens ou para o seu repositório no GitHub.
